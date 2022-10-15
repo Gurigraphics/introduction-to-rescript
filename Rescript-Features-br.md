@@ -29,6 +29,7 @@ Mais seguro e melhor do que precisar tipar tudo como TypeScript.
 5. Sem const, sem var. Só existe let imutável. 
 ```js
 let hello = "hello"
+hello = "bye" //error
 ```
 6. Sem undefined. Sem null.
 
