@@ -6,9 +6,9 @@ Ela tem diversas das características mais valorizadas no mercado:
 Safety, readability, expressivity and great performance
 ```
 
-Segurança - da tipagem forte estática ao pattern matching
-Eficiência - um compilador de alta performance para código nativo 
-Expressividade - combinação de uma linguagem funcional com inferência de tipos e polimorfismo
+- Segurança - da tipagem forte estática ao pattern matching
+- Eficiência - um compilador de alta performance para código nativo 
+- Expressividade - combinação de uma linguagem funcional com inferência de tipos e polimorfismo
 
 - Tipagem estática forte: qualquer expressão da linguagem rigorosamente tem um tipo, verificado em tempo de compilação
 - Inferência de tipos: mas não é preciso definí-lo, o compilador sabe calculá-lo
