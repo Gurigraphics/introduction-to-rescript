@@ -22,12 +22,14 @@ Basta usar o nome do arquivo
 Math.Operations.Basic.add(1, 2)
 ```
 3. Tipagem estática e por inferência do compilador. 
-Mais seguro e melhor do que precisar tipar tudo igual TypeScript.
+Mais seguro e melhor do que precisar tipar tudo como TypeScript.
 
 4. Compila muitas vezes mais rápido que TypeScript.
 
 5. Sem const, sem var. Só existe let imutável. 
-
+```js
+let hello = "hello"
+```
 6. Sem undefined. Sem null.
 
 7. Sem "return" no final da função. 
