@@ -14,11 +14,18 @@ Safety, readability, expressivity and great performance
 - Inferência de tipos: mas não é preciso definí-lo, o compilador sabe calculá-lo
 - Pattern-matching: é possível questionar a estrutura de um dado e usá-la
 
+### Quotes
+
 "Static typing saves clock cycles at execution time and, more importantly, human time during development."
+
 "Robust design supported a scalable development process"
+
 "Expressivity is needed when developing sophisticated static analyzers"
+
 "Smaller, simpler, easier-to-understand systems"
+
 "Rapidly produce high-quality readable, reusable code"
+
 "Saving days of testing and debugging."
 
 ### Referências
